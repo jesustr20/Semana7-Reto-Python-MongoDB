@@ -1,0 +1,49 @@
+Python + MongoDB, Registro de alumnos Y profesores ( INSTITUCION ):
+
+1.-La carpeta "inst" contiene los archivos "alumno" y "profesores". Ambos archivos contienen su propia logica para la conectividad con la base de datos (MongoDB).
+2.-En la carpeta "logic" esta la logica con python para agregar, eliminar, mostrar, actualizar, (CRUD), los datos por tipo, y tambien se encuentra el archivo "MAIN.py" 
+   que es el ejecutable o el arranque del sistema (Beta).
+3.- En la carpeta "pyl" esta la conexion a la base de datos de MongoDB
+
+////////////////////////////////////////
+********* INICIAR EL PROGRAMA *********
+////////////////////////////////////////
+
+Para iniciar el programa, entrar a la carpeta "LOGIC",
+se encuentra el ejecutable "MAIN.py".
+
+Se ejecuta y empieza a correr el pequeño sistema desde consola.
+
+Tecnologías:
+->Python
+->MongoDB
+
+Conector:
+->pymongo
+
+
+
+//////////////////////////////////////////////////////////******************************************************///////////////////////////////////////////////////////////
+
+Python + MongoDB, Student and Teacher Registration (INSTITUTION):
+
+1.-The folder "inst" contains the files "student" and "teachers". Both files contain their own logic for connectivity to the database (MongoDB).
+2.-In the "logic" folder is the logic with python to add, delete, show, update, (CRUD), the data by type, and also the file "MAIN.py"
+    which is the executable or the system boot (Beta).
+3.- In the "pyl" folder is the connection to the MongoDB database
+
+//////////////////////////////////////////
+********* START THE PROGRAM *********
+//////////////////////////////////////////
+
+To start the program, enter the "LOGIC" folder,
+the executable "MAIN.py" is found.
+
+It runs and starts running the small system from console.
+
+Technologies:
+-> Python
+-> MongoDB
+
+Connector:
+-> pymongo
