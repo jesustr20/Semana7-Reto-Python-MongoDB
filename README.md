@@ -1,6 +1,6 @@
 # Semana7-Reto-Python-MongoDB
 Sistema de registro "Profesores", "Alumnos", Beta
-<h1>Python + MongoDB, Registro de alumnos Y profesores ( INSTITUCION ):<h1>
+Python + MongoDB, Registro de alumnos Y profesores ( INSTITUCION ):
 
 1.-La carpeta "inst" contiene los archivos "alumno" y "profesores". Ambos archivos contienen su propia logica para la conectividad con la base de datos (MongoDB).
 2.-En la carpeta "logic" esta la logica con python para agregar, eliminar, mostrar, actualizar, (CRUD), los datos por tipo, y tambien se encuentra el archivo "MAIN.py" 
